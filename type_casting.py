@@ -1,3 +1,9 @@
+# ==========================================
+# Name: Vishal Vasudev
+# Date: 17-11-2026
+# Module 2: Core Fundamentals
+# ==========================================
+
 # 1. User Acquisition
 hourly_rate_input = input("Enter hourly rate: ")
 hours_worked_input = input("Enter hours worked: ")

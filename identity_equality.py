@@ -1,3 +1,9 @@
+# ==========================================
+# Name: Vishal Vasudev
+# Date: 17-11-2026
+# Module 2: Core Fundamentals
+# ==========================================
+
 # 1. Memory Mapping
 x = 256
 y = 256

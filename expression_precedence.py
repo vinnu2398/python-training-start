@@ -1,3 +1,9 @@
+# ==========================================
+# Name: Vishal Vasudev
+# Date: 17-11-2026
+# Module 2: Core Fundamentals
+# ==========================================
+
 # 1. Variable Initialization
 a = 10
 b = 5
