@@ -24,3 +24,13 @@ print(
     f"Status type: {type(status)} \n"
     f"Status id: {id(status)}"
 )
+
+# output :
+# x id: 140722237408344 
+# y id: 140722237408344 
+# a id: 1395300282832 
+# b id: 1395300282832 
+# Identity (a is b): True 
+# Equality (a == b): True 
+# Status type: <class 'NoneType'> 
+# Status id: 140722236500800

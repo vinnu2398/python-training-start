@@ -25,3 +25,18 @@ print(f"Type of hours_worked: {type(hours_worked)}")
 print(f"Type of tax: {type(tax)}")
 print(f"Type of gross_pay: {type(gross)}")
 print(f"Type of net_pay: {type(net_pay)}")
+
+# output : 
+# Enter hourly rate: 100
+# Enter hours worked: 100
+# Enter tax percentage (e.g., 0.2 for 20%): 20
+# Hourly Rate: 100.0
+# Hours Worked: 100
+# Tax: 20.0%
+# Gross Pay: 10000.00
+# Net Pay: 8000.00
+# Type of hourly_rate: <class 'float'>
+# Type of hours_worked: <class 'int'>
+# Type of tax: <class 'float'>
+# Type of gross_pay: <class 'float'>
+# Type of net_pay: <class 'float'>
